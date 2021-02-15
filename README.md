@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview
-For this project, our goal is to put together a dynamic website with a table that displays our dataset, and filters that visually adjust the table as users refine their search. Specifically, our dataset consists of UFO sightings with various details. With our website we want the user to be able to filter the sightings by date, the city, state, or country where the sighting took place, as well as the shape of the witnessed object.
+For this project, our goal is to put together a dynamic website holding a table that displays our dataset, with filters that visually adjust the table as users refine their search. Specifically, our dataset consists of UFO sightings with various details. With our website we want the user to be able to filter the sightings by date, the city, state, or country where the sighting took place, as well as the shape of the witnessed object.
 
 The tools we are working with include:
 
@@ -10,7 +10,7 @@ The tools we are working with include:
 
 
 ## Results 
-This is the website the user sees on first "close encounter"...
+We successfully built the dynamic website. This is what the user sees on first "close encounter"...
 
 ![UFO sighting homepage](https://github.com/flowersmichael/UFOs/blob/main/static/images/homepage.png)
 
